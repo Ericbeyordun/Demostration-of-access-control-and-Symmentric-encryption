@@ -1,4 +1,4 @@
-# Demostration-of-access-control-and-Symmentric-encryption
+# Demostration-of-access-control,-Symmentric-encryption and decryption
 Question:
 You are the security admin for ABC lnc. and you have been tasked with creating accounts for the five (5) new employees. Two of the employees will belong to the Finance dept., Two other will belong to Marketing dept., while the last employee will not be a member of any depts.
 There is a confidential file name "account.txt" which requires all but members of Finance dept. to have read and write (RW) access to the file and members of Marketing dept. only have read (R) access to the file.
